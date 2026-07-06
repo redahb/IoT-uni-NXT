@@ -1,4 +1,0 @@
-# Shutdown button
-button:
-  - platform: shutdown
-    name: ${friendly_name} Shutdown

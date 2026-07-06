@@ -1,4 +1,0 @@
-# Safe Mode button
-button:
-  - platform: safe_mode
-    name: ${friendly_name} Safe Mode

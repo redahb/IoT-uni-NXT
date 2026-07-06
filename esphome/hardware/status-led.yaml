@@ -1,7 +1,0 @@
-# Status LED on ESP-12F module
-light:
-  - platform: status_led
-    id: dongle_led
-    pin:
-      number: GPIO2
-      inverted: true

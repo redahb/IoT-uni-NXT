@@ -1,4 +1,0 @@
-# IR LED schematic
-remote_transmitter:
-  pin: GPIO13
-  carrier_duty_percent: 50%
